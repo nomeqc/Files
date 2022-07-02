@@ -21,7 +21,7 @@ item example：
 def filter_func(item: dict):
     type = item.get('type')
     ext = item.get('file_extension')
-    if type != 'file' or ext != 'wma':
+    if type != 'file' or ext != 'm4a':
         return False
     name = item.get('name', '')
     result = re.search(r'(\d+)', name)
