@@ -26,4 +26,4 @@ def filter_func(item: dict):
     name = item.get('name', '')
     result = re.search(r'(\d+)', name)
     ep_number = int(result.group(1)) if result else -1
-    return ep_number >= 120
+    return ep_number >= 720
