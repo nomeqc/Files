@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXTINF:8,
+https://lf9-static.bytednsdoc.com/obj/tos-cn-i-0004/3e9f729398bd4ffcb765abb4d0f95ffb
+#EXTINF:8,
+https://lf9-static.bytednsdoc.com/obj/tos-cn-i-0004/3e9f729398bd4ffcb765abb4d0f95ffb?c
+#EXT-X-ENDLIST
